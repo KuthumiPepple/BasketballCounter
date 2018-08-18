@@ -1,6 +1,6 @@
 # Basketball Counter android application (v1.0)
 
-An application that serves as a score card and counter for points earned in Basketball
+An application that serves as a score board and counter for points earned in Basketball
 
 Author: Kuthumi Pepple
 =======================
